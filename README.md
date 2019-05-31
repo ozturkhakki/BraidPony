@@ -2,6 +2,7 @@
 This is a project i have done with a team of 5 for CSE-344 (Software Engineering) course in my university education
 
 # Diagrams
+Note: We have created these diagrams before we started the project so there may be some inconsistencies with the end result. 
 
 <a href="https://postimg.cc/fVMQT0vf" target="_blank"><img src="https://i.postimg.cc/fVMQT0vf/class.png" alt="class"/></a><br/><br/>
 <a href="https://postimg.cc/dhnP7tHP" target="_blank"><img src="https://i.postimg.cc/dhnP7tHP/sequence-all.png" alt="sequence-all"/></a><br/><br/>
